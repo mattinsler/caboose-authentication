@@ -1,0 +1,7 @@
+{
+  "author": "mattinsler <mattinsler@gmail.com>",
+  "name": "caboose-authentication",
+  "description": "Caboose plugin to add authentication methods to caboose controllers",
+  "version": "0.0.1",
+  "main": "index"
+}
